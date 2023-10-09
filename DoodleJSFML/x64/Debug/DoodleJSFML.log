@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(69,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(70,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(73,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(83,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(94,184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(96,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(96,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(105,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\main.cpp(105,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DoodleJSFML.vcxproj -> D:\MPrjctsCpp\DoodleJSFML\DoodleJSFML\x64\Debug\DoodleJSFML.exe
