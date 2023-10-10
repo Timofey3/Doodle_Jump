@@ -13,7 +13,7 @@ int main()
 {  
     sf::Texture t1, t2, t3;
     t1.loadFromFile("background.png");
-    t2.loadFromFile("doodle.png");
+    t2.loadFromFile("doodle3.png");
     t3.loadFromFile("platform.png");
 
     sf::Vector2u textureSize1 = t1.getSize(); // t1 background texture size
